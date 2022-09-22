@@ -1,0 +1,16 @@
+{"fitness_club":
+  [
+    "((can)|(could)){0,1} (you){0,1} ((tell)|(say)){0,1} (me){0,1} (about) (fitness-club)",
+    "(what){0,1} ((is)|(are)){0,1} (the){0,1} ((name)|(address)|(facilities)) (available){0,1} ((of)|(in)) (the){0,1} (fitness-club)",
+    "(how){0,1} ((can)|(could)){0,1} (i){0,1} ((contact)|(talk)(call)) ((with)|(to)) (management) (of){0,1} (the){0,1} (club){0,1}",
+    "((tell)|(send)|(say)){0,1} (me){0,1} (what){0,1} (is){0,1} (the){0,1} (phone) (number){0,1} (of){0,1} (management){0,1}"
+  ],
+  "calculator":
+  [
+    "(how){0,1} ((can)|(could)) (i) ((calculate)|(count)) ((my)|(the)){0,1} (body mass index)",
+    "(i) ((want to)|(need to)|(wanna)) ((calculate)|(count)) ((my)|(the)){0,1} (body mass index)",
+    "(i) ((want)|(need)) (a){0,1} (calculator)",
+    "((can)|(could)){0,1} (you){0,1} ((send)|(show)) (me){0,1} (a){0,1} (calculator)",
+    "(what) ((parameters)|(values)){0,1} ((are)|(do i)) ((need to)|(should)|(have to)|(needed to)) ((calculate)|(count)) ((my)|(the)){0,1} (body mass index)"
+  ]
+}
